@@ -42,4 +42,11 @@ body{
    background-color: rgb(255, 230, 0);
 
  }
+ .login-page h1{
+    position: relative;
+    bottom: 5rem;
+    font-size: 2rem;
+    color: red;
+    font-family: cursive;
+ }
  
